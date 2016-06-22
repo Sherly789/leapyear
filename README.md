@@ -28,4 +28,18 @@ A year that is divisible by 400
 #Output
 true
 
+#Behavior
+A year that is evenly divided by 100 and is also evenly divisible by 400
+#Input
+2400
+#Output
+true
+
+#Behavior           
+A year that is not divisible by 4 and is not divisible by 400
+#Input
+2015
+#Output
+false
+
 <!-- User Interface Logic Behaviors -->
