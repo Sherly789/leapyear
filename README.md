@@ -17,7 +17,7 @@ true
 #Behavior           
 A year that is divisible by 100
 #Input
-1900
+1700
 #Output
 false
 
